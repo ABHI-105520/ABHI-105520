@@ -1,0 +1,9 @@
+- 👋 Hi, I’m ABHIJEET DAS
+- 👀 I’m interested in Machine Learning...
+- 🌱 I’m currently learning ML with Python...
+- 📫 You can ping me on mail - abhijeetdas105520@gmail.com...
+
+<!---
+ABHI-105520/ABHI-105520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
